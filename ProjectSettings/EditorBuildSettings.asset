@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Fortress Defense/Scenes/Menu.unity
+    guid: 04565916f9d4f2b48b6bdf49869069b9
+  - enabled: 1
+    path: Assets/Fortress Defense/Scenes/Game.unity
+    guid: 99947ee5f6f656d42adc7e15418116c8
